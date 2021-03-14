@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "got": "^11",
+    "mocha": "^8"
+  },
+  "private": true,
+  "scripts": {
+    "test": "mocha test.js"
+  }
+}
